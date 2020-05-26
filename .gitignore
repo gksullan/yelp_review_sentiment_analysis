@@ -1,0 +1,11 @@
+*.pickle
+.bash_history
+.Rhistory
+.ipynb_checkpoints
+.idea
+*.pyc
+*.json
+*.zip
+*.csv
+*.pkl
+*.git
