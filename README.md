@@ -18,9 +18,9 @@ Additionally, a recurrent neural network will be trained in tensorflow.keras fra
 This dataset has 560,000 highly polar yelp reviews in its training set, and 38,000 highly polar yelp reviews in its test set. Though this dataset is also from Yelp, it is not the exact same dataset and therefore a 1:1 comparison between the RNN model trained on this dataset and the other ML models trained on the Kaggle dataset cannot be performed. However, it is a useful model to demonstrate and quantify the performance of a RNN model for sentiment analysis. 
 
 ## Data Cleaning:
-Jupyter Notebook: [Data Sampling & Joining notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/data_sampling_joining.ipynb)
-
-[Data Cleaning and NLP Notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/data_cleaning_NLP.ipynb)
+Jupyter Notebooks: 
+- [Data Sampling & Joining notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/data_sampling_joining.ipynb)
+- [Data Cleaning and NLP Notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/data_cleaning_NLP.ipynb)
 
 ## Exploratory Data Analysis:
 Jupyter Notebook: [Exploratory data analysis notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/exploratory_data_analysis.ipynb)
