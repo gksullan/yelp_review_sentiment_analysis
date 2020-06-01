@@ -1,4 +1,4 @@
-#___Understanding Yelp Text and Star Reviews for Business Success___
+# Understanding Yelp Text and Star Reviews for Business Success
 ## Background:
 User reviews can provide useful feedback for business growth and establishment. With the ease of online review apps like Yelp, consumers have added an ever growing amount of text and “star” review data for businesses they visit. Machine learning techniques in NLP can be used to decipher the importance of  text features of a business for its success. Specifically, NLP can be used to analyze the actual text of the reviews for the data and perform sentiment analysis. This sentiment analysis can be powerful in gauging public tone. It can be used to understand and respond to customer criticisms of business marketing and products in real time. 
 
