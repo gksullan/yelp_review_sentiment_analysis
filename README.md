@@ -6,7 +6,8 @@ User reviews can provide useful feedback for business growth and establishment. 
 There is a large amount of text review data that is connected to businesses on Yelp. Can we build a model to accurately predict sentiment of reviews (using the star rating as labels)? Can we find meaningful words in reviews that correlate highly with success in star rating? 
 
 ## Data:
-**Note: data files, including cleaned data and hyperparameter data files, are not available due to size restrictions. Cleaned data files & hyperparameter tables can be generated using the methods in the notebooks below**
+___Note: data files, including cleaned data and hyperparameter data files, are not available due to size restrictions. Cleaned data files & hyperparameter tables can be generated using the methods in the notebooks below.___
+
 The data that will be used comes from the Yelp dataset on Kaggle: https://www.kaggle.com/yelp-dataset/yelp-dataset 
 The project specifically uses two of the json files in this dataset: 
 yelp_academic_dataset_business.json
@@ -18,6 +19,7 @@ This dataset has 560,000 highly polar yelp reviews in its training set, and 38,0
 
 ## Data Cleaning:
 Jupyter Notebook: [Data Sampling & Joining notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/data_sampling_joining.ipynb)
+
 [Data Cleaning and NLP Notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/data_cleaning_NLP.ipynb)
 
 ## Exploratory Data Analysis:
