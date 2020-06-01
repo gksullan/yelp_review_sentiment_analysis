@@ -1,4 +1,4 @@
-__Understanding Yelp Text and Star Reviews for Business Success__
+#___Understanding Yelp Text and Star Reviews for Business Success___
 ## Background:
 User reviews can provide useful feedback for business growth and establishment. With the ease of online review apps like Yelp, consumers have added an ever growing amount of text and “star” review data for businesses they visit. Machine learning techniques in NLP can be used to decipher the importance of  text features of a business for its success. Specifically, NLP can be used to analyze the actual text of the reviews for the data and perform sentiment analysis. This sentiment analysis can be powerful in gauging public tone. It can be used to understand and respond to customer criticisms of business marketing and products in real time. 
 
@@ -6,7 +6,7 @@ User reviews can provide useful feedback for business growth and establishment. 
 There is a large amount of text review data that is connected to businesses on Yelp. Can we build a model to accurately predict sentiment of reviews (using the star rating as labels)? Can we find meaningful words in reviews that correlate highly with success in star rating? 
 
 ## Data:
-**Note: data files, including cleaned data and hyperparameter data files, are not available due to size restrictions.**
+**Note: data files, including cleaned data and hyperparameter data files, are not available due to size restrictions. Cleaned data files & hyperparameter tables can be generated using the methods in the notebooks below**
 The data that will be used comes from the Yelp dataset on Kaggle: https://www.kaggle.com/yelp-dataset/yelp-dataset 
 The project specifically uses two of the json files in this dataset: 
 yelp_academic_dataset_business.json
@@ -35,6 +35,12 @@ Jupyter Notebooks:
 
 ## Final Model Analysis:
 Jupyter Notebook: [Final model comparison notebook](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/final_model_analysis.ipynb)
+
+## Final Report:
+[Final Report](https://github.com/gksullan/yelp_review_sentiment_analysis/blob/master/reports/Capstone%202%20Final%20Report.pdf)
+
+
+
 
 
 
