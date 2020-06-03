@@ -6,6 +6,5 @@
 *.pyc
 *.json
 *.zip
-*.csv
 *.pkl
 *.git
